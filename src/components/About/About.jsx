@@ -40,12 +40,11 @@ const About = () => {
             ></Typewriter>
           </h3>
           {/* About me paragraph */}
-          <p className="text-base mr-3 sm:text-lg md:text-lg text-gray-400 mb-8 mt-8 leading-relaxed">
+          <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
             I am a passionate Full Stack Developer specializing in the MERN
             stack with hands-on experience in React.js, Node.js, Express.js and
-            MongoDB. I enjoy creating responsive web designs and developing
-            powerful APIs.I’m always learning new technologies and improving my
-            skills to become a better full-stack developer.
+            MongoDB.I’m always learning new technologies and improving my skills
+            to become a better full-stack developer.
           </p>
           {/* Resume Button */}
           <a
@@ -64,7 +63,7 @@ const About = () => {
         {/* Right Side */}
         <div className="md:w-1/2 flex justify-center md:justify-end max-w-[32rem] mx-auto mt-8 md:mt-0">
           <Tilt
-            className="w-48 h-48 sm:w-64 sm:h-64 md:w-96 md:h-96 border-4 border-purple-700 rounded-full"
+            className="w-48 h-48 sm:w-64 sm:h-64 md:w-[30rem] md:h-[30rem] border-4 border-purple-700 rounded-full"
             tiltMaxAngleX={20}
             tiltMaxAngleY={20}
             perspective={1000}
