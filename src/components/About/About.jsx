@@ -2,7 +2,7 @@ import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import resume from "../../assets/Resume.pdf";
 import Tilt from "react-parallax-tilt";
-import Image from "../../assets/Image.jpg";
+import Image from "../../assets/Image.png";
 
 const About = () => {
   return (
