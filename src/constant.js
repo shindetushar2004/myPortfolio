@@ -4,24 +4,24 @@ import cssLogo from "../src/assets/Logo/css.png";
 import javascriptLogo from "../src/assets/Logo/javascript.png";
 import reactjsLogo from "../src/assets/Logo/react.png";
 import tailwindcssLogo from "../src/assets/Logo/tailwind.png";
-import bootstrapLogo from "../src/assets/Logo/bootstrap.png";
-import nodejsLogo from "../src/assets/Logo/node.png";
+import bootstrapLogo from "../src/assets/Logo/bootstrap.jpeg";
+import nodejsLogo from "../src/assets/Logo/node.jpeg";
 import expressjsLogo from "../src/assets/Logo/express.png";
-import mysqlLogo from "../src/assets/Logo/mysql.png";
-import mongodbLogo from "../src/assets/Logo/mongoDB.png";
+import mysqlLogo from "../src/assets/Logo/mysql.jpeg";
+import mongodbLogo from "../src/assets/Logo/mongoDB.jpeg";
 import cLogo from "../src/assets/Logo/c.png";
 import javaLogo from "../src/assets/Logo/java.png";
-import gitLogo from "../src/assets/Logo/git.png";
+import gitLogo from "../src/assets/Logo/git.jpeg";
 import githubLogo from "../src/assets/Logo/github.png";
-import vscodeLogo from "../src/assets/Logo/vscode.png";
-import postmanLogo from "../src/assets/Logo/postman.png";
-import vercelLogo from "../src/assets/Logo/vercel.png";
-import netlifyLogo from "../src/assets/Logo/netlify.png";
-import AMTLogo from "../src/assets/Logo/AMT.png";
+import vscodeLogo from "../src/assets/Logo/vscode.jpeg";
+import postmanLogo from "../src/assets/Logo/postman.jpeg";
+import vercelLogo from "../src/assets/Logo/vercel.jpeg";
+import netlifyLogo from "../src/assets/Logo/netlify.jpeg";
+import AMTLogo from "../src/assets/Logo/AMT.jpeg";
 import project from "../src/assets/Logo/project.png";
-import PBCOE from "../src/assets/Logo/PBCOE.png";
-import Butle from "../src/assets/Logo/Butle.png";
-import Dinbai from "../src/assets/Logo/Dinbai.png";
+import PBCOE from "../src/assets/Logo/PBCOE.jpeg";
+import Butle from "../src/assets/Logo/Butle.jpeg";
+import Dinbai from "../src/assets/Logo/Dinbai.jpeg";
 
 export const SkillsInfo = [
   {
